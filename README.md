@@ -24,15 +24,12 @@ More: [LinkedIn](https://linkedin.com/in/poojabumesh) | [Portfolio](not_yet)
 
 | Project                                      | Description                                    | Repo Link                                |
 |----------------------------------------------|------------------------------------------------|------------------------------------------|
-| **Wine RAG Recommender**                     | RAG pipeline with Pinecone, reranker, Bedrock  | [github.com/.../wine-rag-reco](#)        |
-| **A(I)YE Chef**                              | YOLOv8 → LLM recipe gen on GCP                 | [github.com/.../aiye-chef](#)            |
-| **Webflix Browse Time Optimization**         | 2-stage factorial experiments + regression     | [github.com/.../webflix-opt](#)          |
+| **Wine RAG Recommender**                     | RAG pipeline with Pinecone, reranker, Bedrock  | [https://github.com/Poojabumesh/A-I-YE-Chef](#)        |
+| **A(I)YE Chef**                              | YOLOv8 → LLM recipe gen on GCP                 | [https://github.com/Poojabumesh/A-I-YE-Chef](#)           |
+| **Tweet_popularity_predictor**         | 2-stage factorial experiments + regression     | [[][https://github.com/Poojabumesh/Tweet_popularity_predictor](#)          |
 
 ---
 
-## 📈 GitHub Stats
-
-![Pooja’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Poojabumesh&show_icons=true&theme=radical)
 
 <!--
 **Poojabumesh/Poojabumesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
