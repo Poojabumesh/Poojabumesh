@@ -22,11 +22,12 @@ More: [LinkedIn](https://linkedin.com/in/poojabumesh) | [Portfolio](not_yet)
 
 ## Featured Projects
 
-| Project                                      | Description                                    | Repo Link                                |
-|----------------------------------------------|------------------------------------------------|------------------------------------------|
-| **Wine RAG Recommender**                     | RAG pipeline with Pinecone, reranker, Bedrock  | [https://github.com/Poojabumesh/A-I-YE-Chef](#)        |
-| **A(I)YE Chef**                              | YOLOv8 → LLM recipe gen on GCP                 | [https://github.com/Poojabumesh/A-I-YE-Chef](#)           |
-| **Tweet_popularity_predictor**         | 2-stage factorial experiments + regression     | [[][https://github.com/Poojabumesh/Tweet_popularity_predictor](#)          |
+| Project                          | Description                                                              | Repo     |
+|----------------------------------|--------------------------------------------------------------------------|----------|
+| **Wine RAG Recommender**         | RAG pipeline with Pinecone, reranker, and Bedrock LLM orchestration      | [Repo](https://github.com/Poojabumesh/wine-rag-recommender) |
+| **A(I)YE Chef**                  | YOLOv8-based ingredient detection → LLM recipe generation on GCP         | [Repo](https://github.com/Poojabumesh/A-I-YE-Chef)           |
+| **Tweet Popularity Predictor**   | Two-stage factorial experiments and regression to forecast engagement     | [Repo](https://github.com/Poojabumesh/Tweet_popularity_predictor) |
+| **Stable Diffusion Fine-Tuning** | SD2.1 fine-tuned with LoRA-PEFT, WebDataset sharding, and CLIP evaluation | [Repo](https://github.com/Poojabumesh/stable-diffusion-domain-finetune) |
 
 ---
 
