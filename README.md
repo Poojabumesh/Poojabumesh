@@ -6,7 +6,7 @@
 MS in Data Science with hands-on experience building and deploying end-to-end machine learning systems in production. Skilled in vector embeddings, LLMs, statistical modeling, and cloud technologies (AWS, Spark, Airflow). Delivered scalable, real-time AI solutions, including a production grade product agent. 
 
 How to reach me: [poojabumesh@gmail.com](mailto:poojabumesh@gmail.com)  
-More: [LinkedIn](www.linkedin.com/in/pooja-baraluumesh) | [Portfolio](https://poojabumesh.github.io/)  
+More: [LinkedIn](https://www.linkedin.com/in/pooja-baraluumesh/) | [Portfolio](https://poojabumesh.github.io/)  
 
 ---
 
