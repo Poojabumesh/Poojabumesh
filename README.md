@@ -26,7 +26,7 @@ More: [LinkedIn](https://www.linkedin.com/in/pooja-baraluumesh/) | [Portfolio](h
 |----------------------------------|--------------------------------------------------------------------------|----------|
 | **RAG Recommender**         | RAG pipeline with Pinecone, reranker, and Bedrock LLM orchestration      | [Blog](https://poojabumesh.github.io/2025/07/30/ai-product-retrieval/) |
 | **A(I)YE Chef**                  | YOLOv8-based ingredient detection → LLM recipe generation on GCP         | [Repo](https://github.com/Poojabumesh/A-I-YE-Chef)           |
-| **Tweet Popularity Predictor**   | Multi-task pipeline for tweet emotion classification, hashtag generation, and popularity prediction using Hugging Face transformers and scikit-learn.     | [Repo](https://github.com/Poojabumesh/Tweet_popularity_predictor) |
+| **Tweet Popularity Predictor**   | Multi-task pipeline for tweet emotion classification, hashtag generation, and popularity prediction using Hugging Face transformers and scikit-learn.     | [Repo](https://github.com/Poojabumesh/Tweet_popularity_predictor), [Blog](https://poojabumesh.github.io/2025/08/08/tweet-intelligence-engine/)|
 | **Stable Diffusion Fine-Tuning** | SD2.1 fine-tuned with LoRA-PEFT, WebDataset sharding, and CLIP evaluation | [Repo](https://github.com/Poojabumesh/stable-diffusion-domain-finetune) |
 
 ---
