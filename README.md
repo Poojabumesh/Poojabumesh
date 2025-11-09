@@ -12,11 +12,15 @@ More: [LinkedIn](https://www.linkedin.com/in/pooja-baraluumesh/) | [Portfolio](h
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3670A0?logo=python&logoColor=FFE873)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)  
-![GCP](https://img.shields.io/badge/-GCP-F9AB00?logo=google-cloud&logoColor=white)  
+## 🧠 Tech Stack
+
+| **Languages** | **ML / AI** | **Data & Infra** | **MLOps / DevOps** |
+|----------------|-------------|------------------|---------------------|
+| ![Python](https://img.shields.io/badge/-Python-3670A0?logo=python&logoColor=FFE873) <br> ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white) | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) <br> ![Transformers](https://img.shields.io/badge/-Transformers-FFD43B?logo=huggingface&logoColor=black) <br> ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white) | ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white) <br> ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) <br> ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white) | ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white) <br> ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) <br> ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) |
+
+| **Cloud** | **Vector / LLM Tools** | **Workflow & CI/CD** | **Monitoring / Analytics** |
+|------------|------------------------|----------------------|-----------------------------|
+| ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) <br> ![GCP](https://img.shields.io/badge/-GCP-F9AB00?logo=google-cloud&logoColor=white) | ![Pinecone](https://img.shields.io/badge/-Pinecone-5D3FD3?logo=pinecone&logoColor=white) <br> ![LangChain](https://img.shields.io/badge/-LangChain-00BFFF?logo=chainlink&logoColor=white) <br> ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white) | ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apache-airflow&logoColor=white) <br> ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white) <br> ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white) | ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white) <br> ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white) <br> ![Superset](https://img.shields.io/badge/-Superset-20A0E1?logo=apache-superset&logoColor=white) |
 
 ---
 
