@@ -12,8 +12,6 @@ More: [LinkedIn](https://www.linkedin.com/in/pooja-baraluumesh/) | [Portfolio](h
 
 ## Tech Stack
 
-## 🧠 Tech Stack
-
 | **Languages** | **ML / AI** | **Data & Infra** | **MLOps / DevOps** |
 |----------------|-------------|------------------|---------------------|
 | ![Python](https://img.shields.io/badge/-Python-3670A0?logo=python&logoColor=FFE873) <br> ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white) | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) <br> ![Transformers](https://img.shields.io/badge/-Transformers-FFD43B?logo=huggingface&logoColor=black) <br> ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white) | ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white) <br> ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) <br> ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white) | ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white) <br> ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) <br> ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) |
